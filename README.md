@@ -6,6 +6,10 @@
   </em>
 </p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F73B00&center=true&vCenter=true&width=440&lines=👨‍💻+Backend+Engineer+%7C+Frontend+Developer;☁️+DevOps+Explorer+%7C+Cloud+Enthusiast;📚+Continuous+Learner+%7C+Problem+Solver;🚀+Let's+build+something+amazing+together!" alt="Typing animation"/>
+</div>
+
 ---
 
 ### 👨‍💻 About Me  
