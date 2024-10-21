@@ -70,8 +70,9 @@ I love solving complex problems, working on innovative projects, and continuousl
 
 ## 📈 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abFiras&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abFiras&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
+
 
 ---
 
