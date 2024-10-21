@@ -55,29 +55,29 @@ I love solving complex problems, working on innovative projects, and continuousl
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FirasAbdallah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abFiras&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FirasAbdallah&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abFiras&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirasAbdallah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abFiras&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FirasAbdallah&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abFiras&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
 
 ## 📫 How to Reach Me  
 <p align="left">
-  <a href="https://github.com/FirasAbdallah">
+  <a href="https://github.com/abFiras">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
