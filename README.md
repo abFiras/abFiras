@@ -1,5 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Firas Abdallah</h1>
-<p align="center"><em>A passionate <strong>Software Engineer</strong> building scalable applications and mastering DevOps tools 🚀</em></p>
+<p align="center">
+  <em>
+    A <strong>Software Engineer</strong> driven by innovation, dedicated to crafting scalable applications, <br>
+    and mastering the art of <strong>DevOps</strong> to bridge development and operations seamlessly 🚀
+  </em>
+</p>
 
 ---
 
