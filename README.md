@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=F73B00&center=true&vCenter=true&width=440&lines=👨‍💻+Backend+Engineer+%7C+Frontend+Developer;☁️+DevOps+Explorer+%7C+Cloud+Enthusiast;📚+Continuous+Learner+%7C+Problem+Solver;🚀+Let's+build+something+incredible+together!" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=F73B00&center=true&vCenter=true&width=440&lines=👨‍💻+Backend+Engineer+%7C+Frontend+Developer;☁️+DevOps+Explorer+%7C+Cloud+Enthusiast;📚+Continuous+Learner+%7C+Problem+Solver;🚀+Let's+build+something+incredible+together!" alt="Typing animation"/>
 </div>
 
 
