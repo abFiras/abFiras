@@ -12,7 +12,6 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firas--abdallah/)
-  [![Profile Views](https://komarev.com/ghpvc/?username=firas-abdallah&color=F73B00&style=for-the-badge)](https://github.com/firas-abdallah)
   
 </div>
 
